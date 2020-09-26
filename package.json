@@ -2,7 +2,7 @@
 	"name": "@Niaz/nlinks",
 	"version": "1.0.0",
 	"description": "loading",
-	"main": "src/index.js",
+	"main": "bin/nlinks",
 	"bin": {
 		"@Niaz/nlinks": "bin/nlinks",
 		"nlinks": "bin/nlinks"
